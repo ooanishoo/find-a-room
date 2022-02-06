@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> should render without crashing 1`] = `
+<div>
+  <header
+    data-testid="header"
+  >
+    <h1>
+      My Project
+    </h1>
+    <nav
+      data-testid="navigation"
+      role="navigation"
+    >
+      <ul>
+        <li>
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/todos"
+          >
+            Todos
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</div>
+`;
